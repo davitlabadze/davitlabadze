@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, welcome</h1>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24px"> Hello, welcome</h1>
 <h3 align="center">I'm Davit labadze<br> Full stack web developer</h3>
 
 <div style="display: inline_block"><br>
