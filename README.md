@@ -9,6 +9,7 @@
 
 <div align="center">
 <!-- ![Davit's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true](https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true&theme=dark) -->
+  ![Davit's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true&theme=dark)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitlabadze&layout=compact&langs_count=7&theme=dark"/> 
 
