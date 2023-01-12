@@ -4,8 +4,11 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24px" height="24px"> Hello, welcome</h1>
 <h3 align="center">I'm Davit labadze<br> Full stack web developer</h3>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <div style="display: inline_block"><br>
+  
 
 <div align="center">
 <!-- ![Davit's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true](https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true&theme=dark) -->
