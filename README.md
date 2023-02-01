@@ -12,7 +12,18 @@
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true&theme=dark"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitlabadze&layout=compact&langs_count=7&theme=dark"/>  -->
-  ![Davit's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true)
+<!-- ![Davit's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true) -->
+  <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true" />
+</picture>
 
 </br>
 <!-- <img align="center" alt="HTML5" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> -->
