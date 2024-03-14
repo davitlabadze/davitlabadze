@@ -11,7 +11,7 @@
 <div align="center">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true&theme=dark"/> -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitlabadze&layout=compact&langs_count=7&theme=dark"/> 
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitlabadze&layout=compact&langs_count=7&theme=dark"/>  -->
 <p align="center">
   <a href="https://github.com/davitlabadze">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=davitlabadze&theme=radical&border=7F3FBF&background=0D1117" alt=""/>
