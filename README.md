@@ -12,6 +12,18 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true&theme=dark"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitlabadze&layout=compact&langs_count=7&theme=dark"/> 
+<p align="center">
+  <a href="https://github.com/davitlabadze">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusho7&theme=radical&border=7F3FBF&background=0D1117" alt="Sandro Tushurashvili's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/davitlabadze">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusho7&theme=radical" alt="Sandro Tushurashvili's GitHub Contribution"/>
+  </a>
+</p>
+
 <!-- ![Davit's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true) -->
 <!--   <picture>
 <source 
