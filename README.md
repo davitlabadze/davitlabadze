@@ -9,7 +9,7 @@
   
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true&theme=dark"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true&theme=dark"/> -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitlabadze&layout=compact&langs_count=7&theme=dark"/> 
 <p align="center">
@@ -23,6 +23,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davitlabadze&theme=radical" alt=""/>
   </a>
 </p>
+<a> 
+  <a href="https://github.com/davitlabadze"><img alt="Sandro Tushurashvili's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/davitlabadze"><img alt="Sandro Tushurashvili's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=davitlabadze&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 <!-- ![Davit's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitlabadze&show_icons=true) -->
 <!--   <picture>
